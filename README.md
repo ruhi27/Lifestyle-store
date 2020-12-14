@@ -50,8 +50,8 @@ Open phpmyadmin
 Create Database named “storesss”.
 Import database storesss.sql.
 Open Your browser put inside URL:
-“http://localhost/web/”
-To Login as admin put inside URL:”http://localhost/web”
+" http://localhost/web/ "
+To Login as admin put inside URL:" http://localhost/web "
 user login details:
 Login Id: ruhimulla123@gmail.com
 Password:Karwar@3
